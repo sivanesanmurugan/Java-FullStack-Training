@@ -1,0 +1,17 @@
+I introduced my self.
+we just Learned about some Networks and basic things about computer like RAM , CPU , SSD etc..
+Learned about the basic Hardware components of the computer such as CPU, Memory, Storage medium (HDD, SSD) and how fast they can read and write the data. 
+And also the cache Memory.
+how the application is working by using Diagram Developer -> Build & Deployment -> Server there are n number of server is avaiable when the Server is down another server will be run <-> Data Base.
+Types of data transfer methods,
+    1.UDP
+    2.TCP
+    3.IP
+    4.DNS(domain name system)it is used for finding the ip address 
+    5.HTTPS
+UDP have very fast data transfer they don't store any log data for eg UDP is using in video call and voice call during UDP data loss will be happen it don't care abouts this. But TCP method stores the log and it helps to rectify the error later period.
+And how DNS works and website ip. Each website have unique IP and that ip is mapped to the domain name called google.com have unique ip.
+CDN Content Delivery Network 
+Hands on coding
+I started to design a static simple web page by using html & css only.
+I designed a page Kumaran website.
