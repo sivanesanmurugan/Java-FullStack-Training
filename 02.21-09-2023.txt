@@ -1,0 +1,15 @@
+- HTML
+    - Basic text tags
+    - image tags
+    - types of input tags
+    - table , rowspan colspan
+
+-css
+    - types of css 
+    - linking css and HTML
+    - selectors (class, id, tag, pseudo selector)
+    - Padding and margin
+    - flex direction
+    - justify content
+    - align items
+
