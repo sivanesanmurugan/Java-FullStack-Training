@@ -1,0 +1,6 @@
+hands on coding
+-To create a Netflix web pages 
+-used lot of html tags and css styles
+-used div and flaex for positioning
+-used css to design the buttons and pages
+-used github pages to host this website
