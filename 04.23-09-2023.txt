@@ -1,0 +1,5 @@
+Task
+    -To crate a static single page website of BGMI using HTML css 
+    -Learned to create cards using div
+    -Further learned the uses of display flex column and row
+    -hosted the page in github pages
