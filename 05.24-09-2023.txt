@@ -1,0 +1,15 @@
+Bootstrap
+    -how to add Bootstrap
+    -how to use Bootstrap
+    -crate a shopping app using Bootstrap
+    -add nav, cards, table and footer
+    -host it in github
+
+javascript
+    -Datatypes
+    -variables , const , let
+    -loops conditions 
+    -funcitons
+    -map,reduce,filter
+    -async,await
+    
