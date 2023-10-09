@@ -1,0 +1,16 @@
+E-commerce Website Functionality:
+
+JS:
+    -> login Validation
+    -> Orders page
+    -> Update orders and checkout page
+    -> Admin page with create and edit orders & Products
+
+getItem, setItem :
+
+stringify-> to convert to string
+
+location.replace() -> replace another window                
+
+let users = JSON.parse(localStorage.getItem());
+localStorage.setItem()-> The array will be created in local storage
