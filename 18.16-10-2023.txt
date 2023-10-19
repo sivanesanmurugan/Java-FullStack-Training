@@ -1,13 +1,29 @@
-Angular Form
-------------
-ngForm
-------
-dirty,pristine->data modification
-touched,untouched->clicking the box
-valid, invalid->the entered value is valid or not
-ngForm->Overall form
-ngModel->For form elements
+Angular Concepts 
+----------------
+    *Template driven forms 
+        -It is the declarative way to create forms.
+        -Directives are used for form controls.
+            1.ngModel 
+            2.ngForm 
+            3.ngSubmit 
+        -Template driven directives are used for validation.
+            1.Max length 
+            2.Min length 
+            3.Required 
 
-Pipes
------
-to transfer one form to another
+    *Reactive forms 
+        -It is a programmatic way to create forms.
+        -It uses [formControl].
+
+    *OnInit interface and ngOnInit method.
+    *Router navigate and replaceUrl.
+    
+Task 
+----
+1. To build an E-commerce application using angular and add routing for the following requirements.
+    *Login with form validation.
+    *Register with form validation.
+    *Home 
+    *Navbar 
+    *Cart 
+    *Orders 
