@@ -1,0 +1,66 @@
+Day-33
+-------
+
+1.Tightly Coupling,Loosly Coupling
+
+2.Inversion of Concepts
+
+3.Dependency Injection
+
+    -Constructor Injection
+
+    -SetterMethod
+
+4.Component
+
+5.AutoWired
+
+6.Primary
+
+7.Qualifier
+
+8.CDI
+
+  -@NAMED
+
+  -@Inject
+
+9.Configuration
+
+10.ComponentScan
+
+11.Scope
+
+   -Singleton
+
+   -prototype
+
+12.Life cycle of bean
+
+    -PostConstruct
+
+    -preDestroy
+
+13.Annotations application context
+
+14.@RestaController
+
+   -@RequestbOdy
+
+   -@pathvariable
+
+   -@getmpping
+
+   -@postmapping
+
+   -@Deletemapping
+
+   -@put Mapping
+
+15.AutoWired by name
+
+16.data.sql it will run automaticaly
+
+17.Jdbc Template
+
+18.applications.properties has context menu
