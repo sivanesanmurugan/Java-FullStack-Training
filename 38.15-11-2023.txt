@@ -1,0 +1,22 @@
+Online Banking System 
+--------------------------------------
+
+    *Continued with the backend part of the project 
+
+        -> Controller
+
+            - Admin  
+
+            - Account
+
+            - User Profile 
+
+        -> Add HttpRequests for the following in the controller
+
+                1. Login with validation
+
+                2. Register with validation
+
+                3. Add/Edit/Delete/Get Admin
+
+                4. Add/Edit/Delete/Get Account
