@@ -1,0 +1,7 @@
+Online Banking System 
+--------------------------------------
+    *Continued with the integration part of back end and front end  
+        - POST two account for one user saving and investment.
+        - Get the details by switch the account while using application.
+        - Made few changes in the UI.
+        -Admin-GET the no of user in appuser table and getting total balance in bank 

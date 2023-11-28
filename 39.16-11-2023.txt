@@ -1,0 +1,12 @@
+Online Banking System 
+--------------------------------------
+    *Continued with the backend part of the project 
+        -> Controller
+            - User Bookings end points 
+                1. GET 
+                2. POST 
+                3. PUT
+            
+            - Bookings  
+                1. GET all user in admin Side 
+            

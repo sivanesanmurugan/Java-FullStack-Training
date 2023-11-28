@@ -1,0 +1,10 @@
+Online Banking System 
+--------------------------------------
+    *Continued with the integration part of back end and front end  
+        - Integrated POST methods
+            -> POST user account 
+
+        - Enchanced routes for the component.
+        - Enchanced logics.
+        - Stored routing details of the user for stopping page navigation after refresh.
+        - Enchanced UI for few pages.

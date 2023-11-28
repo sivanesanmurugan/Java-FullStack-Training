@@ -1,0 +1,16 @@
+Online Banking System 
+--------------------------------------
+    *Continued with the front end part of the project 
+        - Added form validation for 
+            1. Login 
+            2. Register
+            3. Account Form 
+            4. UserDetsil Form 
+
+        - Integrated login with the back-end.
+        - Started integrating other parts to the back-end.
+
+
+Topics 
+------
+    *Communication between components.

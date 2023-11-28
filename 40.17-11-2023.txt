@@ -1,0 +1,11 @@
+Online Banking System 
+--------------------------------------
+    *Completed the backend part for sprint 1 with the following 
+        - Admin(get all User)
+        - User Profile 
+        - Auth (Login/Register)
+
+    *Started with the UI part
+        - Login 
+        - Register 
+        - Home 

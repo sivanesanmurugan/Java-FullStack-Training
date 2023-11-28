@@ -1,0 +1,13 @@
+Online Banking System 
+--------------------------------------
+    *Continued with the integration of back end and 
+        - Integrated all the POST methods.
+            -> POST category 
+            -> Register 
+            -> POST Account 
+            -> POST UserDetails
+
+        - Integrated all the PUT methods.
+            -> PUT UserDetails 
+            -> PUT Approval Account 
+
