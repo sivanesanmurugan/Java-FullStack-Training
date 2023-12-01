@@ -1,0 +1,15 @@
+Online Banking System 
+--------------------------------------
+    *Continued with the back end and front end integration.
+        - Loaded data to the database.
+        - Made UI changes.
+        - Made backend changes.
+        - completed the register form with validation and create account number 10 digit auto gerenated 
+
+    *Yet to complete 
+        - Navbar and sidebar enchancement.
+        - UI changes for 
+            -> Admin pages 
+            -> User pages 
+            -> transaction 
+            -> self,sameBank,otherBank trasfer

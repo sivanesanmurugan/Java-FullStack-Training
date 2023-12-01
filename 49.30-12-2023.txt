@@ -1,0 +1,9 @@
+Online Banking System 
+--------------------------------------
+        - Made UI changes.
+        - Made backend changes.
+        - completed the transaction form with validation for tansaction forms 
+            -> transaction 
+            -> self,sameBank,otherBank trasfer
+            -> get the Same Bank account or in drop down setup to simply 
+            

@@ -1,0 +1,27 @@
+Online Banking System
+----------------------
+ 
+And readme fill of the projects
+  ->Project name- Online Banking System
+  ->Description- Online Banking functions, Fund tranfer (self,samebank,otherbank)
+  ->Username:user ; password :user ; (role:User)
+    Username:admin ; password:admin ; (role:Admin)
+    Username:sanjay ; password:123 ; (role:User)
+->Technologies
+   Front end -Html,css,angular,js,ts
+   Backend-Spring boot,My sql ,java
+->
+Reposititory link of the front end:
+
+https://github.com/sivanesanmurugan/Online_Banking
+
+Reposititory link of the back end:
+
+https://github.com/sivanesanmurugan/Online-Banking
+ 
+-->prepare the demo video of the project
+https://drive.google.com/file/d/1UArFelRDdYYk-uradL_PO5MV_SP8CUGz/view?usp=sharing
+ 
+->Struct topic
+->custom validation
+->Lazy loading
